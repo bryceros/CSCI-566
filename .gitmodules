@@ -1,0 +1,6 @@
+[submodule "hw2/csci566-assignment2"]
+	path = hw2/csci566-assignment2
+	url = https://github.com/shaohua0116/csci566-assignment2.git
+[submodule "hw3/csci566-assignment3"]
+	path = hw3/csci566-assignment3
+	url = https://github.com/kpertsch/csci566-assignment3.git
